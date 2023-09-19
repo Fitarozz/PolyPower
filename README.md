@@ -1,4 +1,4 @@
-![Frame 40](https://github.com/Fitarozz/PolyPower/assets/73397407/63b6eed7-be18-4350-9d91-6639aa7f6345)
+![Polypower](https://github.com/Fitarozz/PolyPower/assets/73397407/c6e803d3-53b9-4523-ac50-2c27886d1d95)
 
 
 
