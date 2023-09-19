@@ -5,7 +5,7 @@
 
 PolyPower est un mod complet et innovant pour Minecraft, conçu pour transformer votre expérience de jeu en un monde d'énergie diversifié et polyvalent. Ce mod propose un vaste éventail de fonctionnalités, allant des câbles sans fil avancés aux systèmes de stockage et de génération d'énergie variés.
 
-## Fonctionnalités clés :
+## Fonctionnalités clés 
 
 Système de Câbles sans Fil pour Optimisation des Performances : PolyPower introduit un système de câbles sans fil qui permet de transporter l'énergie de manière efficace et sans encombre tout en minimisant les demandes sur les performances du jeu. En réduisant le nombre de vertices dans le monde, les câbles sans fil contribuent à des performances fluides et à des gains de FPS.
 
