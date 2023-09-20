@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"name": "upscale",
+			"path": "../../../../../../upscale"
+		},
+		{
+			"name": "Iris-2.3.12-1.19.3",
+			"path": "../../../../../../Iris-2.3.12-1.19.3"
+		},
+		{
+			"name": "Iris-2.3.12-1.19.3",
+			"path": "../../../../../../../Desktop/survie/plugins/Iris-2.3.12-1.19.3"
+		},
+		{
+			"path": "../../../../../../outscraper-python-3.0.2"
+		},
+		{
+			"path": "../../../../../../daily-newspaper"
+		},
+		{
+			"path": "../../../../../../SITE/1er test"
+		},
+		{
+			"path": "../../../../../../william-wythers-overhauled-overworld-1-19-v1-2-2"
+		},
+		{
+			"path": "../../../../../../SITE/section copie"
+		},
+		{
+			"path": "../../../../../../ItemsAdder_3.2.5-r3 (2)"
+		},
+		{
+			"path": "../../../../../../Nouveau dossier (34)/Powah-4.0.11"
+		},
+		{
+			"path": "../../../../.."
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
